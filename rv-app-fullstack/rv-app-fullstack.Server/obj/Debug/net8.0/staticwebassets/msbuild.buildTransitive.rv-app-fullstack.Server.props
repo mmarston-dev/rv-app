@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\rv-app-fullstack.Server.props" />
+</Project>

@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "Fylz9TUwZCNRvXotPomMe7aBuLg08DRx13RR7Bxv6gY=",
+  "Source": "rv-app-fullstack.Server",
+  "BasePath": "_content/rv-app-fullstack.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Development\\rv-app\\rv-app-fullstack\\rv-app-fullstack.client\\rv-app-fullstack.client.esproj",
+      "Version": 2,
+      "Source": "rv-app-fullstack.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
